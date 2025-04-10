@@ -24,7 +24,7 @@ This repository contains Lab 3 from the **Computer Communication & Networks (SE-
 ---
 
 📁 This repository includes:
-- Lab Manual in `.docx` format
+- Lab Manual in `.docx` format ,download from here https://github.com/Zainab88804/Packet-Tracer/raw/refs/heads/main/CCN%20lab%203%20ZA-CYBER.docx
 - Explanation of each command used
 
 🚀 Feel free to explore and learn from this lab work!
