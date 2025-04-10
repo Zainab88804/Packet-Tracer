@@ -1,6 +1,4 @@
-# Packet-Tracer
-
-# CCN Lab 3 – Cisco Packet Tracer
+# Cisco Packet Tracer
 
 This repository contains Lab 3 from the **Computer Communication & Networks (SE-306L)** course. The focus of this lab is to understand the basics of Cisco Packet Tracer and practice essential router and switch commands.
 
